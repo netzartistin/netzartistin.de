@@ -1,0 +1,33 @@
+.text {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-align: left;
+	list-style-position: outside;
+	line-height: normal;
+	padding-left: 8px;
+	list-style-image: url(liste.png);
+	color: #000;
+}
+
+.gruen {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #97BF0D;
+	font-weight: bold;
+	text-decoration: none;
+}
+.recht {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+}
+#Tabelle_01 tr .text .recht {
+	color: #000000;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Tahoma, Geneva, sans-serif;
+}
